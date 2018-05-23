@@ -28,9 +28,6 @@ mongoose.connect('mongodb://admin:admin@ds037395.mlab.com:37395/scraper')
 
 var db = mongoose.connection
 
-// your code here...
-
-
 // var db = mongojs('newsScraper', ['news'])
 
 
