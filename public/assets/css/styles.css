@@ -1,0 +1,17 @@
+body {
+  display: inherit;
+  background-color: grey;
+}
+
+#jumbotronPic {
+  background-image: url('../images/newspaper.jpeg');
+  height: 365px;
+}
+
+#jumboText {
+  color: whitesmoke;
+  font-weight: 700;
+}
+#wrapper{
+  background-color: grey;
+}
